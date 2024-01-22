@@ -5,8 +5,8 @@ from datetime import datetime
 
 def create_elb():
     # Replace 'your_access_key', 'your_secret_key', and 'your_region' with your AWS credentials and region
-    access_key = 'AKIAYS2NXDIUC52HG2X2'
-    secret_key = 'JSkQDGJZhC5t6LqLnEyRhQwLRJNJs353b5FuQPgr'
+    access_key = '#####'
+    secret_key = '#########'
     region = 'us-east-1'
 
     # Connect to AWS
